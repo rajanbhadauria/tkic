@@ -1,0 +1,8 @@
+table, tr, td {
+  border: 1px solid rgb(188, 181, 181);
+  width: 100%;
+  padding: 2px;
+}
+.thead{ padding:2%}
+table td { width: 25%;}
+.px40 { width: 40%;}
