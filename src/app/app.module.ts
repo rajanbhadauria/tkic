@@ -11,6 +11,7 @@ import { FooterComponent } from './footer/footer.component';
 import { SliderComponent } from './slider/slider.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { ResultsComponent } from './results/results.component';
+import { SchoolToppersComponent } from './school-toppers/school-toppers.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { ResultsComponent } from './results/results.component';
     FooterComponent,
     SliderComponent,
     NavbarComponent,
-    ResultsComponent
+    ResultsComponent,
+    SchoolToppersComponent
   ],
   imports: [
     BrowserModule,
